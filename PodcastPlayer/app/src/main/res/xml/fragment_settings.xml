@@ -1,0 +1,9 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory app:title="Configuraões">
+
+        <SeekBarPreference android:key="refreshrate" app:defaultValue="60" app:min="30" android:max="300" android:title="Tempo de Refresh (Segundos)"></SeekBarPreference>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

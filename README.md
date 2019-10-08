@@ -27,11 +27,11 @@ Este exercício é baseado no [exercício anterior](https://github.com/if710/201
 
 | Passo | Completou? |
 | ------ | ------ |
-| 7 | **não** |
-| 8 | **não** |
-| 9 | **não** |
-| 10 | **não** |
-| 11 | **não** |
-| 12 | **não** |
-| 13 | **não** |
-| 14 | **não** |
+| 7 | **sim** |
+| 8 | **sim** |
+| 9 | **sim** |
+| 10 | **criei a preferencia, mas não o WorkManager** |
+| 11 | **sim** |
+| 12 | **sim** |
+| 13 | **sim** |
+| 14 | **sim** |
